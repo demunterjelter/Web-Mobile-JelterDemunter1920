@@ -1,3 +1,3 @@
 # Logboek Web-Mobile-JelterDemunter1920
 ## week1 - 4uur
-*introductie van het vak
+*les 1: introductie van het vak (4uur)
